@@ -1,0 +1,110 @@
+{
+  "FilePath": "c:\\EntregasRapidex\\AppWeb\\AppWeb.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 800
+  },
+  "RootNamespace": "AppWeb",
+  "Documents": [
+    {
+      "FilePath": "c:\\EntregasRapidex\\AppWeb\\Views\\DetalheFrete\\Index.cshtml",
+      "TargetPath": "Views\\DetalheFrete\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\EntregasRapidex\\AppWeb\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\EntregasRapidex\\AppWeb\\Views\\Home\\Rastreamento.cshtml",
+      "TargetPath": "Views\\Home\\Rastreamento.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\EntregasRapidex\\AppWeb\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\EntregasRapidex\\AppWeb\\Views\\Pagamento\\Index.cshtml",
+      "TargetPath": "Views\\Pagamento\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\EntregasRapidex\\AppWeb\\Views\\CadastroCliente\\Index.cshtml",
+      "TargetPath": "Views\\CadastroCliente\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\EntregasRapidex\\AppWeb\\Views\\FreteRapido\\index.cshtml",
+      "TargetPath": "Views\\FreteRapido\\index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\EntregasRapidex\\AppWeb\\Views\\Pedidos\\Index.cshtml",
+      "TargetPath": "Views\\Pedidos\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\EntregasRapidex\\AppWeb\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\EntregasRapidex\\AppWeb\\Views\\PedidoFinalizado\\Index.cshtml",
+      "TargetPath": "Views\\PedidoFinalizado\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\EntregasRapidex\\AppWeb\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\EntregasRapidex\\AppWeb\\Views\\FreteEstadual\\Index.cshtml",
+      "TargetPath": "Views\\FreteEstadual\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\EntregasRapidex\\AppWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\EntregasRapidex\\AppWeb\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\EntregasRapidex\\AppWeb\\Views\\ResumoPedido\\Index.cshtml",
+      "TargetPath": "Views\\ResumoPedido\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\EntregasRapidex\\AppWeb\\Views\\Pagamentos\\Index.cshtml",
+      "TargetPath": "Views\\Pagamentos\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\EntregasRapidex\\AppWeb\\Views\\FreteNacional\\index.cshtml",
+      "TargetPath": "Views\\FreteNacional\\index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\EntregasRapidex\\AppWeb\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}

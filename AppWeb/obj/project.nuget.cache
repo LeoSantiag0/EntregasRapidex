@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9ctqsM0OVH4vQrKNhBc04Y0TzS4Qm0ag+sKp2WS44v6ery7mudDDenF/ScQWu/Hec7TpWxuwX9ca8wMdVj90vA==",
+  "success": true,
+  "projectFilePath": "/home/lsantiago/EntregasRapidex/AppWeb/AppWeb.csproj",
+  "expectedPackageFiles": [
+    "/home/lsantiago/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
