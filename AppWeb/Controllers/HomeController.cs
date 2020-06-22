@@ -23,7 +23,7 @@ namespace AppWeb.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult DadosProjeto()
         {
             return View();
         }

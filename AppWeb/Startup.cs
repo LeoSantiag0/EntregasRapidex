@@ -8,6 +8,8 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using System.Data;
+using AppWeb.Config;
 
 namespace AppWeb
 {
@@ -23,7 +25,19 @@ namespace AppWeb
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddAuthentication("CookieAuthentication")
+            .AddCookie("CookieAuthentication", config =>
+            {
+                config.Cookie.Name = "UserLoginCookie";
+                config.LoginPath = "/Login/UsuarioLogin";
+                config.LogoutPath = "/Home/Index";
+                config.AccessDeniedPath = "/Login/AccessDenied";
+            });
+            
             services.AddControllersWithViews();
+
+            //adicionar a referência de conexão
+            services.AddSingleton<IConexao, Config.Conexao>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
