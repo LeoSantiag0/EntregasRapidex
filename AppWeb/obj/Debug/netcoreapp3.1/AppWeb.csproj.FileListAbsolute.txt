@@ -70,7 +70,6 @@
 /home/lsantiago/EntregasRapidex/AppWeb/obj/Debug/netcoreapp3.1/Razor/Views/Backoffice/Pedido.cshtml.g.cs
 /home/lsantiago/EntregasRapidex/AppWeb/obj/Debug/netcoreapp3.1/Razor/Views/Backoffice/PedidoEdicaoStatus.cshtml.g.cs
 /home/lsantiago/EntregasRapidex/AppWeb/obj/Debug/netcoreapp3.1/Razor/Views/Backoffice/Admin.cshtml.g.cs
-/home/lsantiago/EntregasRapidex/AppWeb/obj/Debug/netcoreapp3.1/Razor/Views/Frete/Index.cshtml.g.cs
 /home/lsantiago/EntregasRapidex/AppWeb/obj/Debug/netcoreapp3.1/Razor/Views/CadastroCliente/FormularioCadastro.cshtml.g.cs
 /home/lsantiago/EntregasRapidex/AppWeb/obj/Debug/netcoreapp3.1/Razor/Views/Pedido/Inclusao.cshtml.g.cs
 /home/lsantiago/EntregasRapidex/AppWeb/obj/Debug/netcoreapp3.1/Razor/Views/Pedido/Sucesso.cshtml.g.cs

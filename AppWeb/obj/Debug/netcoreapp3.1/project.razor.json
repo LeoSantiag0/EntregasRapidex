@@ -20571,11 +20571,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/lsantiago/EntregasRapidex/AppWeb/Views/Frete/Index.cshtml",
-      "TargetPath": "Views\\Frete\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "/home/lsantiago/EntregasRapidex/AppWeb/Views/Shared/Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"

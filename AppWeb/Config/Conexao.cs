@@ -22,4 +22,3 @@ namespace AppWeb.Config
 
 
 
-//"Server=localhost; Port=3306; Database=Rapidex; Uid=root; Pwd='853211';"
